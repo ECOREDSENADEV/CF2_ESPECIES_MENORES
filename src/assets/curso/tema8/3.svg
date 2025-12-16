@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="Grupo_1202633" data-name="Grupo 1202633" transform="translate(-804.765 -927)">
+    <rect id="Rectángulo_409950" data-name="Rectángulo 409950" width="80" height="80" transform="translate(804.765 927)" fill="none"/>
+    <path id="Trazado_1037173" data-name="Trazado 1037173" d="M62,45V16a3,3,0,1,0-6,0v1H44V16a3,3,0,0,0-6,0v1H26V16a3,3,0,0,0-6,0v1H8V16a3,3,0,1,0-6,0V45a2,2,0,0,0-2,2v2a2,2,0,0,0,2,2H8a2,2,0,0,0,2-2V47a2,2,0,0,0-2-2V43H20v2a2,2,0,0,0-2,2v2a2,2,0,0,0,2,2h6a2,2,0,0,0,2-2V47a2,2,0,0,0-2-2V43H38v2a2,2,0,0,0-2,2v2a2,2,0,0,0,2,2h6a2,2,0,0,0,2-2V47a2,2,0,0,0-2-2V43H56v2a2,2,0,0,0-2,2v2a2,2,0,0,0,2,2h6a2,2,0,0,0,2-2V47A2,2,0,0,0,62,45ZM44,27H56v6H44Zm12-8v6H44V19ZM26,27H38v6H26Zm12-8v6H26V19ZM8,27H20v6H8Zm12-8v6H8V19ZM8,49H2V47H8ZM4,45V16a1,1,0,0,1,2,0V45Zm4-4V35H20v6Zm18,8H20V47h6Zm-4-4V16a1,1,0,0,1,2,0V45Zm4-4V35H38v6Zm18,8H38V47h6Zm-4-4V16a1,1,0,0,1,2,0V45Zm4-4V35H56v6ZM58,16a1,1,0,0,1,2,0V45H58ZM56,49V47h6v2Z" transform="translate(812.765 935)"/>
+  </g>
+</svg>
