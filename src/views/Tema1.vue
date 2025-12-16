@@ -312,7 +312,67 @@
         .titulo-sexto.color-acento-contenido
           h5 Tabla 1.
           span Programa de vacunación en especies menores (Colombia – 2025)
-        .tabla-a.color-acento-botones.mb-5 
+        .tabla-a.color-acento-contenido.mb-5 
+          table
+            thead
+              tr
+                th.bg-color-11 Especie
+                th.bg-color-11 Enfermedades / vacunas
+                th.bg-color-11 Tipo de control
+                th.bg-color-11 Vía
+                th.bg-color-11 Dosis
+                th.bg-color-11 Frecuencia / edad
+                th.bg-color-11 Observaciones sanitarias
+            tbody.bg-color-white
+              tr
+                td Cuyes (Cavia porcellus)
+                td Salmonelosis / Pasteurelosis
+                td Recomendada
+                td SC
+                td 0.5 ml
+                td Desde 25 días; refuerzo anual
+                td Requiere alta bioseguridad
+              tr.bg-color-sintesis
+                td Conejos (Oryctolagus cuniculus)
+                td Mixomatosis / EVH
+                td Recomendada
+                td SC / ID
+                td 1 ml
+                td 4–6 semanas; refuerzo semestral
+                td Control de vectores
+              tr
+                td Aves (Gallinas, pollos, postura)
+                td Newcastle (obligatoria), Bronquitis, Gumboro, Viruela
+                td Oficial / Recomendada
+                td Ocular / Oral / SC
+                td Según biológico
+                td Desde el 1.er día; refuerzos cada 6–8 semanas
+                td Certificación ICA y limpieza de equipos
+              tr.bg-color-sintesis
+                td Codornices (Coturnix coturnix japonica)
+                td Newcastle / Bronquitis
+                td Recomendada
+                td Ocular / Agua
+                td Según biológico
+                td 7.º día; refuerzo trimestral
+                td Galpones ventilados, evitar hacinamiento
+              tr
+                td Cabras (Capra hircus)
+                td Fiebre aftosa / Ántrax / Enterotoxemia / Brucelosis
+                td Obligatoria / Oficial
+                td SC / Conjuntival
+                td 1–2 ml
+                td Desde 3 meses; refuerzos anuales o semestrales
+                td Registro ICA obligatorio
+              tr.bg-color-sintesis
+                td Ovejas (Ovis aries)
+                td Fiebre aftosa / Ántrax / Clostridiosis / Ectima / Brucelosis
+                td Obligatoria / Recomendada
+                td SC / Cutánea
+                td 1–2 ml
+                td Desde 2–3 meses; refuerzo anual
+                td Aplicar solo en animales sanos
+
 
     
     p.mb-5 La vacunación en especies menores es una herramienta clave de bioseguridad y un requisito para el cumplimiento de las Buenas Prácticas Ganaderas (BPG). Su correcta implementación:

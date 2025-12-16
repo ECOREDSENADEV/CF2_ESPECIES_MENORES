@@ -72,6 +72,12 @@ figcaption
     background-color: #A7E8D2
     &:hover
       background-color: #FEDBA6
+  &-11
+    background-color: #FFA622
+  &-12
+    background-color: #D0D9F1
+  &-13
+    background-color: #FDBAB3
   &-white
     background-color: white !important
     border: 1px solid $lightest-gray
@@ -101,9 +107,9 @@ figcaption
 
 ///////////////fondos/////////////////
 .bg-fondo
-  //&-1
-    background-image: url("../assets/bg/bg1.png") !important
-    background-position: top
+  &-1
+    background-image: url("../assets/curso/bg1.svg") !important
+    background-position: bottom
   //&-2
     // background-image: url("../assets/bg/bg2.png") !important
     background-position: bottom
@@ -184,3 +190,48 @@ figcaption
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
   padding: 20px;
   border-radius: 8px; /* Opcional, para bordes redondeados */
+
+//////////////CUSTOM TABS-A/////////////
+.tabs-a.color-acento-botones .tabs-a__tab__selected 
+  background-color: #FFE200
+  color: $color-sistema-texto !important
+.tabs-a__tab
+  background-color: #FFA622
+.tarjeta.color-acento-botones--borde
+  background-color: #E8F9F3
+  border: solid 4px #E8F9F3
+
+/////////CUSTOM TABS-C//////////
+.tabs-c__header 
+  margin-bottom: 0
+.tabs-c__content-item
+  background-color: #E7ECF8
+
+//////// Card hover ////////////
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  //&:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+      background-color: #D0D9F1
+      h4
+        color: $color-sistema-texto
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 35px   
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: #D0D9F1
+    text-align: center
+    h4
+      color: $color-sistema-texto
+  
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
