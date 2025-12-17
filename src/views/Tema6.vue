@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 6
-      h1 6.	Codornices (<em>Coturnix coturnix japonica</em>)
+      h1 Codornices (<em>Coturnix coturnix japonica</em>)
     
     .row.mb-5
       .col-lg-5.order-lg-2.mb-3.mb-lg-0
@@ -140,6 +140,45 @@
               h5 Tabla 17.
               span Equipos y utensilios recomendados en sistemas de postura
             .tabla-a.color-acento-contenido.mb-5
+              table
+                thead
+                  tr
+                    th.bg-color-11 Equipo / Utensilio
+                    th.bg-color-11 Función
+                    th.bg-color-11 Material recomendado
+                    th.bg-color-11 Observaciones
+                tbody.bg-color-white
+                  tr
+                    td Comedero lineal o tipo tolva
+                    td Suministro de alimento balanceado
+                    td Galvanizado o plástico
+                    td Ubicado externamente para evitar desperdicio
+                  tr.bg-color-sintesis
+                    td Bebedero automático (chupón/canaleta)
+                    td Provisión de agua limpia
+                    td PVC o acero inoxidable
+                    td Flujo regulado y limpieza diaria
+                  tr
+                    td Criadora o fuente de calor
+                    td Aporte de temperatura para pollitos
+                    td Gas o eléctrica
+                    td Mantener 35 °C al inicio, bajando 3 °C/semana
+                  tr.bg-color-sintesis
+                    td Recolector de huevos
+                    td Facilita la recolección sin manipular aves
+                    td Alambre inclinado o canaleta
+                    td Evita fracturas de huevos
+                  tr
+                    td Bandejas recolectoras de excretas
+                    td Mantener limpieza del sistema
+                    td Plástico o galvanizado
+                    td Limpieza cada 2–3 días
+                  tr.bg-color-sintesis
+                    td Ventiladores o extractores
+                    td Renovación de aire
+                    td Metálicos o eléctricos
+                    td Evitan acumulación de amoníaco
+
     
     separador
     
