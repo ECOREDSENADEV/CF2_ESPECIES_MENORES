@@ -12,7 +12,7 @@
         figure
           img(src="@/assets/curso/tema4/1.png", data-aos="zoom-in")
       .col-lg-7
-        .bg-color-12.p-5(data-aos="fade-left")
+        .bg-color-12.p-5.tarjeta(data-aos="fade-left")
           p.mb-0 El conejo es una especie de elevada eficiencia alimenticia y reproductiva, lo que lo convierte en una alternativa rentable dentro de la producción de especies menores. No obstante, su crianza requiere de infraestructura adecuada que garantice bienestar animal, sanidad, confort térmico y facilidad de manejo. Estas condiciones son esenciales para alcanzar parámetros óptimos de crecimiento y reproducción (FAO, 2023).
     
     separador
