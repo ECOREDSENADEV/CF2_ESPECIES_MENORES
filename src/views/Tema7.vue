@@ -9,7 +9,7 @@
     
     .bg-color-1.mb-5(data-aos="fade-up")
       .row.justify-content-center.align-items-center
-        .col-lg-auto.mb-3.mb-lg-0
+        .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
           figure
             img(src='@/assets/curso/tema7/1.png', alt='')
         .col-lg
@@ -140,7 +140,7 @@
             .bg-color-9.tarjeta.mb-5
               .px-4.px-md-5.py-4
                 .row.align-items-center
-                  .col-lg-auto
+                  .col-lg-auto.mb-3.mb-lg-0
                     img(src="@/assets/curso/tema7/5.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     p.mb-0 <b>Pasillos de circulación</b>: mínimo 0,9–1,2 m de ancho para permitir el paso de animales y operarios sin riesgo de golpes o aglomeraciones.
@@ -159,7 +159,7 @@
           .col-lg-9.order-lg-1
             .bg-color-13.p-4.tarjeta(data-aos="fade-left").mb-3
               .row.align-items-start.mb-3
-                .col-lg-auto
+                .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/tema7/7.png").mx-auto
                 .col-lg
                   .bg-color-white.p-4.tarjeta
@@ -182,7 +182,7 @@
             .bg-color-9.tarjeta
               .px-4.px-md-5.py-4
                 .row.align-items-center
-                  .col-lg-auto
+                  .col-lg-auto.mb-3.mb-lg-0
                     img(src="@/assets/curso/tema7/8.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     p.mb-0 <b>Confort térmico</b>: se recomienda el uso de tarimas de madera o pisos elevados en zonas húmedas, ya que las cabras prefieren superficies secas y elevadas.
@@ -357,7 +357,7 @@
       .col-lg-9.order-lg-1
         .bg-color-15.p-4.tarjeta(data-aos="fade-left").mb-3
           .row.align-items-start.mb-3
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema7/17.svg").mx-auto
             .col-lg
               .bg-color-white.p-4.tarjeta

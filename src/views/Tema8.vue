@@ -158,7 +158,7 @@
       .col-lg-10
         .bg-color-13.p-4.tarjeta(data-aos="fade-left").mb-3
           .row.align-items-start
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema8/10.svg").mx-auto
             .col-lg
               .bg-color-white.p-4.tarjeta
@@ -243,7 +243,7 @@
           .col-lg-9.order-lg-1
             .bg-color-3.p-4.tarjeta(data-aos="fade-left").mb-3
               .row.align-items-start.mb-3
-                .col-lg-auto
+                .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/tema8/12.png").mx-auto
                 .col-lg
                   .bg-color-white.p-4.tarjeta
@@ -366,15 +366,15 @@
                     td.p-2 1,1 m
 
 
-        separador
-        
-        #t_8_7.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-          h2 8.7 Planos esquemáticos y referencias visuales
+    separador
+    
+    #t_8_7.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 8.7 Planos esquemáticos y referencias visuales
     
     p.mb-5 Los planos permiten visualizar la disposición del espacio para mejorar el manejo, evitar aglomeraciones y facilitar tareas rutinarias. Plano básico de corral ovino (vista superior):
 
     .row.justify-content-center
-      .col-lg-5
+      .col-lg-5.mb-3.mb-lg-0
         .titulo-sexto.color-acento-contenido
           h5 Figura 2.
           span Planos esquemáticos

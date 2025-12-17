@@ -16,22 +16,23 @@
     
         .bg-color-2.tarjeta.p-4(data-aos="fade-left")
           .row.align-items-start
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema6/2.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 Debido a su tamaño reducido y a su capacidad para mantener altas densidades poblacionales, las codornices pueden criarse en espacios compactos, siempre que se aseguren condiciones ambientales óptimas en términos de ventilación, temperatura e higiene (FAO, 2023).
     
-    .titulo-con-imagen.mb-5(data-aos="fade-right")
-      .titulo-con-imagen__fondo
-        img.titulo-con-imagen__imagen(src="@/assets/componentes/1.svg")
-        h3.titulo-con-imagen__texto 6.1.	Requisitos generales de alojamiento
+    separador
+    
+    #t_6_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 6.1 Requisitos generales de alojamiento
+  
     
     p.mb-5 Para asegurar el bienestar y la productividad, es indispensable mantener condiciones ambientales controladas y estructuras adecuadas que minimicen el estrés, favorezcan el comportamiento natural y mantengan la sanidad del lote.
 
     TabsC.color-acento-contenido(data-aos="zoom-in")
       .py-3.py-md-4(titulo="Condiciones ambientales recomendadas")
-        .row.justify-content-center.align-items-center
-          .col-md-6.mb-4.mb-md-0.order-lg-2
+        .row.justify-content-center.align-items-center.p-4
+          .col-lg-6.mb-4.mb-md-0.order-lg-2
             h4 Condiciones ambientales recomendadas
             ul.lista-ul--color.mb-0
               li.mb-3.d-flex
@@ -49,12 +50,12 @@
               li.mb-3.d-flex
                 i.fas.fa-circle-check
                 p.mb-0 Densidad: 80–120 cm² por ave adulta
-          .col-md-5.mb-3.mb-lg-0.order-lg-1
+          .col-lg-5.mb-3.mb-lg-0.order-lg-1
             figure
               img(src='@/assets/curso/tema6/3.png', alt='Texto que describa la imagen')
       .py-3.py-md-4(titulo="Ubicación del galpón")
-        .row.justify-content-center.align-items-center
-          .col-md-6.mb-4.mb-md-0.order-lg-2
+        .row.justify-content-center.align-items-center.p-4
+          .col-lg-6.mb-4.mb-md-0.order-lg-2
             h4 Ubicación del galpón
             ul.lista-ul--color.mb-0
               li.mb-3.d-flex
@@ -69,7 +70,7 @@
               li.mb-3.d-flex
                 i.fas.fa-circle-check
                 p.mb-0 Piso de concreto con pendiente del 2 % para drenaje..
-          .col-md-5.mb-3.mb-lg-0.order-lg-1
+          .col-lg-5.mb-3.mb-lg-0.order-lg-1
             figure
               img(src='@/assets/curso/tema6/4.png', alt='Texto que describa la imagen')
     
@@ -122,7 +123,7 @@
             .bg-color-9.tarjeta.mb-5
               .px-4.px-md-5.py-4
                 .row.align-items-center
-                  .col-lg-auto
+                  .col-lg-auto.mb-3.mb-lg-0
                     img(src="@/assets/curso/tema6/5.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     p.mb-0 <b>Recomendación</b>. Instalar las jaulas en baterías de 3 a 5 niveles, con bandejas recolectoras entre pisos para facilitar la higiene y el manejo del estiércol.
@@ -195,7 +196,7 @@
         p Una iluminación adecuada y el control de la temperatura son factores clave en la regulación de la postura, el crecimiento y la salud de las codornices, especialmente en sistemas intensivos.
         .bg-color-8.p-4.tarjeta(data-aos="fade-left")
           .row.align-items-start.mb-3
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema6/7.svg").mx-auto
             .col-lg
               .bg-color-white.p-4.tarjeta
@@ -224,7 +225,7 @@
           .col-lg-10
             .bg-color-13.p-4.tarjeta(data-aos="fade-left")
               .row.align-items-start.mb-3
-                .col-lg-auto
+                .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/tema6/8.png").mx-auto
                 .col-lg
                   .bg-color-white.p-4.tarjeta.mb-3
@@ -245,7 +246,7 @@
                         i.fas.fa-circle-check
                         p.mb-0 Control de roedores e insectos con métodos físicos y trampas.
                   .row.align-items-center
-                    .col-lg-auto
+                    .col-lg-auto.mb-3.mb-lg-0
                       img(src="@/assets/curso/tema6/9.svg", style="max-width: 90px").mx-auto
                     .col-lg
                       p.mb-0 Estas medidas previenen la diseminación de enfermedades comunes en aves menores, como salmonelosis, colibacilosis y coriza infecciosa (ICA, 2022).

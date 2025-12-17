@@ -81,7 +81,7 @@
           .col-lg-8.order-lg-1
             .bg-color-9.p-4.tarjeta(data-aos="fade-left").mb-3
               .row.align-items-start.mb-3
-                .col-lg-auto
+                .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/tema10/5.png").mx-auto
                 .col-lg
                   .bg-color-white.p-4.tarjeta

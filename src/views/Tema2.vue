@@ -42,7 +42,7 @@
       .col-lg-10
         .bg-color-9.p-4.tarjeta(data-aos="fade-left")
           .row.align-items-start
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema2/5.png").mx-auto
             .col-lg
               .bg-color-white.p-4.tarjeta
@@ -88,7 +88,7 @@
     
     .bg-color-1.mb-5(data-aos="fade-up")
       .row.justify-content-center.align-items-center
-        .col-lg-auto.mb-3.mb-lg-0
+        .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
           figure
             img(src='@/assets/curso/tema2/7.png', alt='')
         .col-lg
@@ -114,7 +114,7 @@
                 .bg-color-6.tarjeta
                   .px-4.px-md-5.py-4
                     .row.align-items-center
-                      .col-lg-auto
+                      .col-lg-auto.mb-3.mb-lg-0
                         img(src="@/assets/curso/tema2/9.svg", style="max-width: 90px").mx-auto
                       .col-lg
                         p.mb-0 Bacterias
@@ -122,7 +122,7 @@
                 .bg-color-6.tarjeta
                   .px-4.px-md-5.py-4
                     .row.align-items-center
-                      .col-lg-auto
+                      .col-lg-auto.mb-3.mb-lg-0
                         img(src="@/assets/curso/tema2/10.svg", style="max-width: 90px").mx-auto
                       .col-lg
                         p.mb-0 Virus
@@ -131,7 +131,7 @@
                 .bg-color-6.tarjeta
                   .px-4.px-md-5.py-4
                     .row.align-items-center
-                      .col-lg-auto
+                      .col-lg-auto.mb-3.mb-lg-0
                         img(src="@/assets/curso/tema2/11.svg", style="max-width: 90px").mx-auto
                       .col-lg
                         p.mb-0 Parásitos
@@ -139,7 +139,7 @@
                 .bg-color-6.tarjeta
                   .px-4.px-md-5.py-4
                     .row.align-items-center
-                      .col-lg-auto
+                      .col-lg-auto.mb-3.mb-lg-0
                         img(src="@/assets/curso/tema2/12.svg", style="max-width: 90px").mx-auto
                       .col-lg
                         p.mb-0 Hongos
@@ -148,7 +148,7 @@
                 .bg-color-6.tarjeta
                   .px-4.px-md-5.py-4
                     .row.align-items-center
-                      .col-lg-auto
+                      .col-lg-auto.mb-3.mb-lg-0
                         img(src="@/assets/curso/tema2/13.svg", style="max-width: 90px").mx-auto
                       .col-lg
                         p.mb-0 Priones
@@ -236,7 +236,7 @@
         .bg-color-1.tarjeta.mb-5
           .px-4.px-md-5.py-4
             .row.align-items-center
-              .col-lg-auto
+              .col-lg-auto.mb-3.mb-lg-0
                 img(src="@/assets/curso/tema2/15.svg", style="max-width: 90px").mx-auto
               .col-lg
                 p.mb-0 El reconocimiento de la sintiencia en las especies menores es esencial para asegurar un manejo ético y eficiente en la producción pecuaria. Un entorno que respete sus necesidades emocionales y comportamentales no solo reduce el sufrimiento, sino que mejora la productividad, la reproducción y la sanidad, en coherencia con los marcos normativos y éticos vigentes.

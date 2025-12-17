@@ -15,7 +15,7 @@
         p La alimentación representa el componente más determinante en la productividad de las especies pecuarias menores, siendo responsable de hasta el 70 % de los costos de producción. Un manejo nutricional adecuado asegura:
         .bg-color-1.p-4.tarjeta(data-aos="fade-left").mb-3
           .row.align-items-start.mb-3
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema9/2.png").mx-auto
             .col-lg
               .bg-color-white.p-4.tarjeta
@@ -82,7 +82,7 @@
     .bg-color-16.tarjeta.mb-5
       .px-4.px-md-5.py-4
         .row.align-items-center
-          .col-lg-auto
+          .col-lg-auto.mb-3.mb-lg-0
             img(src="@/assets/curso/tema9/4.svg", style="max-width: 90px").mx-auto
           .col-lg
             p.mb-0 Los requerimientos nutricionales varían según la especie, la edad, el sexo y el estado fisiológico del animal. La calidad del alimento influye directamente en su salud, inmunidad y bienestar general.
@@ -204,7 +204,7 @@
       .col-lg-10
         .bg-color-15.p-4.tarjeta(data-aos="fade-left")
           .row.align-items-center
-            .col-lg-auto.order-lg-2
+            .col-lg-auto.mb-3.mb-lg-0.order-lg-2
               img(src="@/assets/curso/tema9/7.svg").mx-auto
             .col-lg.order-lg-1
               .bg-color-white.p-4.tarjeta

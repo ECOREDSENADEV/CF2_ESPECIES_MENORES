@@ -9,7 +9,7 @@
     
     .bg-color-1.mb-5(data-aos="fade-up")
       .row.justify-content-center.align-items-center
-        .col-lg-auto.mb-3.mb-lg-0
+        .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
           figure
             img(src='@/assets/curso/tema3/1.png', alt='')
         .col-lg
@@ -25,8 +25,8 @@
 
     TabsC.color-acento-contenido(data-aos="zoom-in")
       .py-3.py-md-4(titulo="Objetivos del diseño")
-        .row.justify-content-center.align-items-center
-          .col-md-6.mb-4.mb-md-0
+        .row.justify-content-center.align-items-center.p-4
+          .col-lg-6.mb-4.mb-md-0
             h4 Objetivos del diseño
             ul.lista-ul--color.mb-0
               li.mb-3.d-flex
@@ -41,12 +41,12 @@
               li.mb-3.d-flex
                 i.fas.fa-circle-check
                 p.mb-0 Optimizar el uso del espacio y los recursos disponibles.
-          .col-md-5.mb-3.mb-lg-0
+          .col-lg-5.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/tema3/3.png', alt='Texto que describa la imagen')
       .py-3.py-md-4(titulo="Dimensiones recomendadas del galpón")
-        .row.justify-content-center.align-items-center
-          .col-md-6.mb-4.mb-md-0
+        .row.justify-content-center.align-items-center.p-4
+          .col-lg-6.mb-4.mb-md-0
             h4 Dimensiones recomendadas del galpón
             ul.lista-ul--color.mb-0
               li.mb-3.d-flex
@@ -68,8 +68,8 @@
             figure
               img(src='@/assets/curso/tema3/4.png', alt='Texto que describa la imagen')
       .py-3.py-md-4(titulo="Distribución básica del galpón")
-        .row.justify-content-center.align-items-center
-          .col-md-6.mb-4.mb-md-0
+        .row.justify-content-center.align-items-center.p-4
+          .col-lg-6.mb-4.mb-md-0
             h4 Distribución básica del galpón
             ul.lista-ul--color.mb-0
               li.mb-3.d-flex
@@ -84,7 +84,7 @@
               li.mb-3.d-flex
                 i.fas.fa-circle-check
                 p.mb-0 Zona sucia: disposición de estiércol y residuos.
-          .col-md-5.mb-3.mb-lg-0
+          .col-lg-5.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/tema3/5.png', alt='Texto que describa la imagen')
       
@@ -309,7 +309,7 @@
             p p Las instalaciones y equipos destinados a la crianza de cuyes deben planificarse con un enfoque integral que combine bienestar animal, eficiencia operativa, higiene y sostenibilidad económica. Este enfoque permite adaptar la infraestructura a las condiciones y recursos del productor, sin comprometer la productividad. El pequeño productor puede iniciar con soluciones simples y locales, e ir escalando progresivamente hacia sistemas más tecnificados, de acuerdo con sus capacidades técnicas y económicas. A continuación se presentan los beneficios de una inversión adecuada en infraestructura, independientemente de la escala del sistema:
             .bg-color-9.p-4.tarjeta(data-aos="fade-left")
               .row.align-items-start
-                .col-lg-auto
+                .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/tema3/10.svg").mx-auto
                 .col-lg
                   .bg-color-white.p-4.tarjeta

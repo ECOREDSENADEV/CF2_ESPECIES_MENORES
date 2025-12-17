@@ -25,7 +25,7 @@
     .bg-color-12.tarjeta
       .px-4.py-4
         .row.align-items-center
-          .col-lg-auto
+          .col-lg-auto.mb-3.mb-lg-0
             img(src="@/assets/curso/tema5/2.svg", style="max-width: 90px").mx-auto
           .col-lg
             p.mb-0 A continuación, se describen los principales modelos de galpones avícolas utilizados en Colombia, sus materiales, ventajas, desventajas y densidades recomendadas según las condiciones ambientales.
@@ -95,10 +95,10 @@
         p.mb-5 Antes de elegir este modelo, es importante conocer sus beneficios y limitaciones para evaluar su viabilidad según los objetivos de la producción.
 
         .row.mb-5.justify-content-center
-          .col-sm-6.col-lg-4.mb-4.mb-sm-0(data-aos="fade-down")
+          .col-sm-6.col-lg-4.mb-4.mb-sm-0.order-md-3.order-lg-1(data-aos="fade-down")
             figure
               img(src='@/assets/curso/tema5/9.png', alt='Texto que describa la imagen')
-          .col-sm-6.col-lg-4.mb-4.mb-lg-0(data-aos="fade-down")
+          .col-sm-6.col-lg-4.mb-4.mb-lg-0.order-md-1.order-lg-2(data-aos="fade-down")
             .tarjeta--boton.bg-color-1.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-6
@@ -108,7 +108,7 @@
               p.text-center.mb-0 Económicos y fáciles de construir
               p.text-center.mb-0 Adaptables a climas templados y cálidos
               p.text-center.mb-0 Materiales accesibles y de fácil reposición
-          .col-sm-6.col-lg-4.mb-4.mb-lg-0(data-aos="fade-up")
+          .col-sm-6.col-lg-4.mb-4.mb-lg-0.order-md-2.order-lg-3(data-aos="fade-up")
             .tarjeta--boton.bg-color-1.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-6
@@ -173,7 +173,7 @@
             .bg-color-6.tarjeta
               .px-4.py-3
                 .row.align-items-center
-                  .col-lg-auto
+                  .col-lg-auto.mb-3.mb-lg-0
                     img(src="@/assets/curso/tema5/14.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     h5 Estructura
@@ -182,7 +182,7 @@
             .bg-color-6.tarjeta
               .px-4.py-3
                 .row.align-items-center
-                  .col-lg-auto
+                  .col-lg-auto.mb-3.mb-lg-0
                     img(src="@/assets/curso/tema5/15.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     h5 Paredes
@@ -192,7 +192,7 @@
             .bg-color-6.tarjeta
               .px-4.py-3
                 .row.align-items-center
-                  .col-lg-auto
+                  .col-lg-auto.mb-3.mb-lg-0
                     img(src="@/assets/curso/tema5/16.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     h5 Piso
@@ -201,7 +201,7 @@
             .bg-color-6.tarjeta
               .px-4.py-3
                 .row.align-items-center
-                  .col-lg-auto
+                  .col-lg-auto.mb-3.mb-lg-0
                     img(src="@/assets/curso/tema5/17.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     h5 Ventilación
@@ -211,7 +211,7 @@
             .bg-color-6.tarjeta
               .px-4.py-3
                 .row.align-items-center
-                  .col-lg-auto
+                  .col-lg-auto.mb-3.mb-lg-0
                     img(src="@/assets/curso/tema5/18.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     h5 Iluminación
@@ -286,7 +286,7 @@
     p.mb-5 A continuación se describen los materiales y equipos comúnmente integrados en este tipo de galpón:
 
     .row.mb-5.justify-content-center
-      .col-sm-6.col-lg-3.mb-4.mb-sm-0(data-aos="fade-down")
+      .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-down")
         figure
           img(src='@/assets/curso/tema5/23.png', alt='Texto que describa la imagen')
       .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-down")
@@ -534,7 +534,7 @@
             .bg-color-6.tarjeta.h-100
               .px-4.py-3
                 .row.align-items-center
-                  .col-lg-auto
+                  .col-lg-auto.mb-3.mb-lg-0
                     img(src="@/assets/curso/tema5/41.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     h5 Estrés calórico 
@@ -543,7 +543,7 @@
             .bg-color-6.tarjeta.h-100
               .px-4.py-3
                 .row.align-items-center
-                  .col-lg-auto
+                  .col-lg-auto.mb-3.mb-lg-0
                     img(src="@/assets/curso/tema5/42.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     h5 Problemas respiratorios 
@@ -553,7 +553,7 @@
             .bg-color-6.tarjeta.h-100
               .px-4.py-3
                 .row.align-items-center
-                  .col-lg-auto
+                  .col-lg-auto.mb-3.mb-lg-0
                     img(src="@/assets/curso/tema5/43.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     h5 Humedad en la cama 
@@ -562,7 +562,7 @@
             .bg-color-6.tarjeta.h-100
               .px-4.py-3
                 .row.align-items-center
-                  .col-lg-auto
+                  .col-lg-auto.mb-3.mb-lg-0
                     img(src="@/assets/curso/tema5/44.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     h5 Cáscaras más delgadas 
@@ -626,7 +626,7 @@
       .col-lg-8
         .bg-color-2.p-4.tarjeta(data-aos="fade-left")
           .row.align-items-start
-            .col-lg-auto.order-2
+            .col-lg-auto.mb-3.mb-lg-0.order-2
               img(src="@/assets/curso/tema5/49.svg").mx-auto
             .col-lg.order-1.mb-3.mb-lg-0
               .bg-color-white.p-4.tarjeta
@@ -683,7 +683,7 @@
       .col-lg-8.order-lg-1
         .bg-color-2.p-4.tarjeta(data-aos="fade-left")
           .row.align-items-start
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema5/55.svg").mx-auto
             .col-lg
               .bg-color-white.p-4.tarjeta
@@ -778,7 +778,7 @@
           .col-lg-8.order-lg-1
             .bg-color-3.p-4.tarjeta(data-aos="fade-left")
               .row.align-items-start
-                .col-lg-auto
+                .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/tema5/59.svg").mx-auto
                 .col-lg
                   .bg-color-white.p-4.tarjeta
@@ -841,8 +841,8 @@
           img(src="@/assets/curso/tema5/64.png", data-aos="zoom-in")
       .col-lg-8.order-lg-1
         .bg-color-2.p-4.tarjeta(data-aos="fade-left")
-          .row.align-items-start
-            .col-lg-auto
+          .row.align-items-start.mb-3
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema5/65.svg").mx-auto
             .col-lg
               .bg-color-white.p-4.tarjeta
@@ -878,7 +878,7 @@
             .bg-color-6.tarjeta.h-100
               .px-4.py-3
                 .row.align-items-center
-                  .col-lg-auto
+                  .col-lg-auto.mb-3.mb-lg-0
                     img(src="@/assets/curso/tema5/67.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     h5 Disminución de la postura  
@@ -887,7 +887,7 @@
             .bg-color-6.tarjeta.h-100
               .px-4.py-3
                 .row.align-items-center
-                  .col-lg-auto
+                  .col-lg-auto.mb-3.mb-lg-0
                     img(src="@/assets/curso/tema5/68.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     h5 Mayor prevalencia de enfermedades
@@ -897,7 +897,7 @@
             .bg-color-6.tarjeta.h-100
               .px-4.py-3
                 .row.align-items-center
-                  .col-lg-auto
+                  .col-lg-auto.mb-3.mb-lg-0
                     img(src="@/assets/curso/tema5/69.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     h5 Estrés hídrico
@@ -906,7 +906,7 @@
             .bg-color-6.tarjeta.h-100
               .px-4.py-3
                 .row.align-items-center
-                  .col-lg-auto
+                  .col-lg-auto.mb-3.mb-lg-0
                     img(src="@/assets/curso/tema5/70.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     h5 Acumulación de amoníaco 
@@ -923,7 +923,7 @@
       .col-lg-10
         .bg-color-3.p-4.tarjeta(data-aos="fade-left")
           .row.align-items-start
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema5/71.png").mx-auto
             .col-lg
               .bg-color-white.p-4.tarjeta
@@ -1063,7 +1063,7 @@
       .col-lg-10
         .bg-color-3.p-4.tarjeta(data-aos="fade-left")
           .row.align-items-start
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema5/77.svg").mx-auto
             .col-lg
               .bg-color-white.p-4.tarjeta
@@ -1097,7 +1097,7 @@
         .bg-color-14.tarjeta.mb-5
           .px-4.px-md-5.py-4
             .row.align-items-center
-              .col-lg-auto
+              .col-lg-auto.mb-3.mb-lg-0
                 img(src="@/assets/curso/tema5/79.svg", style="max-width: 90px").mx-auto
               .col-lg
                 p.mb-0 El alimento balanceado representa aproximadamente el 70 % de los costos de producción en avicultura de postura, lo que convierte al diseño y manejo de los comederos en un factor crítico.
@@ -1145,7 +1145,7 @@
         .bg-color-14.tarjeta.mb-5
           .px-4.px-md-5.py-4
             .row.align-items-center
-              .col-lg-auto
+              .col-lg-auto.mb-3.mb-lg-0
                 img(src="@/assets/curso/tema5/84.svg", style="max-width: 90px").mx-auto
               .col-lg
                 p.mb-0 Las recomendaciones técnicas indican que en los sistemas abiertos se debe disponer de entre 8 y 10 centímetros lineales de bebedero por ave, garantizando un acceso adecuado al agua. En los galpones cerrados, se aconseja una densidad aproximada de 40 a 50 aves por cada metro lineal de canal, lo que permite mantener una correcta distribución y evitar la competencia entre los animales al momento de hidratarse.

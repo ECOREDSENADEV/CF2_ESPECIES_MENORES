@@ -17,7 +17,7 @@
           .col-lg-8.order-lg-1
             p(data-aos="fade-left").mb-5 El bienestar animal y la sanidad preventiva constituyen la base de toda producción pecuaria responsable. Estos dos principios garantizan que las actividades productivas se desarrollen bajo condiciones éticas, seguras y sostenibles, asegurando la salud de los animales, la inocuidad de los alimentos y la protección de la salud pública. En un contexto donde la trazabilidad y el cumplimiento normativo son exigencias crecientes, su aplicación permite fortalecer la confianza del consumidor y elevar los estándares de calidad en la producción pecuaria nacional.
             .row.align-items-center
-              .col-lg-auto
+              .col-lg-auto.mb-3.mb-lg-0
                 img(src="@/assets/curso/intro/2.png").mx-auto
               .col-lg
                 .bg-color-1.tarjeta.p-4(data-aos="fade-left")

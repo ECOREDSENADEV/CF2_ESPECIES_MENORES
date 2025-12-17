@@ -83,7 +83,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Cuy (Cavia porcellus)',
+        titulo: 'Cuy (<em>Cavia porcellus</em>)',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -121,7 +121,7 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Conejos (Oryctolagus cuniculus)',
+        titulo: 'Conejos (<em>Oryctolagus cuniculus</em>)',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -195,7 +195,7 @@ export default {
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: 'Codornices (Coturnix coturnix japonica)',
+        titulo: 'Codornices (<em>Coturnix coturnix japonica</em>)',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -234,7 +234,7 @@ export default {
       {
         nombreRuta: 'tema7',
         numero: '7',
-        titulo: 'Caprinos (Capra hircus)',
+        titulo: 'Caprinos (<em>Capra hircus</em>)',
         desarrolloContenidos: true,
         subMenu: [
           {

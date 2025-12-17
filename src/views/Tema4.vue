@@ -280,7 +280,7 @@
       .col-lg-8.order-lg-1    
         .bg-color-13.tarjeta.p-4(data-aos="fade-left")
           .row.align-items-start
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema4/20.png").mx-auto
             .col-lg
               .bg-color-white.tarjeta.p-4

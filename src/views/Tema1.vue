@@ -30,7 +30,7 @@
         
             .bg-color-2.tarjeta.p-4(data-aos="fade-left")
               .row.align-items-start
-                .col-lg-auto
+                .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/tema1/3.svg", style="max-width: 90px").mx-auto
                 .col-lg
                   p.mb-0 En las explotaciones pecuarias, el bienestar animal es un componente esencial para garantizar una producción sostenible, ética y segura, ya que animales saludables y tranquilos presentan un mejor rendimiento productivo y reproductivo, así como menor susceptibilidad a enfermedades.
@@ -168,7 +168,7 @@
       .col-lg-8.order-lg-1
         p(data-aos="fade-left").mb-3 La sintiencia animal se refiere a la capacidad de los animales para sentir, percibir y experimentar emociones positivas y negativas, como placer, miedo, dolor, hambre o bienestar. Este concepto, reconocido por la Organización Mundial de Sanidad Animal (OMSA, 2023) y la Unión Europea (2012), establece que los animales no son seres inertes o puramente biológicos, sino individuos con experiencias conscientes que deben ser respetados y protegidos.
         .row.align-items-center
-          .col-lg-auto
+          .col-lg-auto.mb-3.mb-lg-0
             img(src="@/assets/curso/tema1/13.svg").mx-auto
           .col-lg
             .bg-color-1.tarjeta.p-4(data-aos="fade-left")
@@ -228,7 +228,7 @@
     .bg-color-8.tarjeta.mb-5
       .px-4.px-md-5.py-4
         .row.align-items-center
-          .col-lg-auto
+          .col-lg-auto.mb-3.mb-lg-0
             img(src="@/assets/curso/tema1/19-1.svg", style="max-width: 90px").mx-auto
           .col-lg
             p.mb-0 El reconocimiento de la sintiencia en las especies menores es esencial para asegurar un manejo ético y eficiente en la producción pecuaria. Un entorno que respete sus necesidades emocionales y comportamentales no solo reduce el sufrimiento, sino que mejora la productividad, la reproducción y la sanidad, en coherencia con los marcos normativos y éticos vigentes.
@@ -419,7 +419,7 @@
       .col-lg-9.order-lg-1
         .bg-color-9.p-4.tarjeta(data-aos="fade-left")
           .row.align-items-start
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema1/33.svg").mx-auto
             .col-lg
               .bg-color-white.p-4.tarjeta
@@ -743,7 +743,7 @@
         .bg-color-8.tarjeta.mb-5
           .px-4.px-md-5.py-4
             .row.align-items-center
-              .col-lg-auto
+              .col-lg-auto.mb-3.mb-lg-0
                 img(src="@/assets/curso/tema1/57.svg", style="max-width: 90px").mx-auto
               .col-lg
                 p.mb-0 Estos planes deben ser planificados, coordinados y sostenibles en el tiempo. Su éxito depende de la participación activa del personal y de la adopción de prácticas integrales.
